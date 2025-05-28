@@ -18,8 +18,4 @@ DOMAIN-SUFFIX,vpp.itunes.apple.com,REJECT
 DOMAIN-SUFFIX,ffapple.com,REJECT
 DOMAIN-SUFFIX,world-gen.g.aaplimg.com,REJECT
 DOMAIN-SUFFIX,ocsp.usertrust.com,REJECT
-DOMAIN-SUFFIX,g.douclick.net,REJECT
-DOMAIN-SUFFIX,g.doubleclick.net,REJECT
-DOMAIN-SUFFIX,googletagservices.com,REJECT
-DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,REJECT
 DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
